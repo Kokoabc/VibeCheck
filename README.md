@@ -1,4 +1,4 @@
-Project Title: Multi-Emotion Predictive API
+### Project Title: Multi-Emotion Predictive API
 A high-performance FastAPI and Docker-based service for real-time emotional intelligence analysis.
 
 ###  Project Overview

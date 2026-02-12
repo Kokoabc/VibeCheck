@@ -36,7 +36,7 @@ docker build -t emotion-api .
 docker run -p 8000:8000 emotion-api
 Access the interactive API documentation at http://localhost:8000/docs
 
-###  Lessons Learned (The "DevLog")
+###  Lessons Learned 
 Path Management: Navigated the transition from Windows-specific file paths (C:\Users\...) to Linux-based container paths to ensure cloud portability.
 
 Model Persistence: Debugged AttributeError issues related to model serialization and versioning between training and production environments.

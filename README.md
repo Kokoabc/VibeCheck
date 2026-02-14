@@ -93,7 +93,7 @@ While the core API is functional, I have planned the following enhancements to s
 
  ## 👤 About the Author
 
-**[Your Name]** *Aspiring AI & Security Engineer*
+**Mopelola Opeifa** *Aspiring AI & Security Engineer*
 
 I am a developer passionate about the intersection of **Machine Learning** and **Cybersecurity**. This project was born out of a desire to understand how to deploy complex ML models into scalable, production-ready environments using Docker and FastAPI.
 

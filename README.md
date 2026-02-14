@@ -4,7 +4,8 @@ A high-performance FastAPI and Docker-based service for real-time emotional inte
 ###  Project Overview
 This project provides a REST API that analyzes text and classifies it across 11 different emotional dimensions (Joy, Anger, Fear, etc.). It uses SVM (Support Vector Machines), Linear regression, and KNN (K-nearest neighbour) models trained on specialized NLP datasets, containerized with Docker for seamless deployment.
 
-![API Documentation Screenshot](screenshots/api_documentation)
+![API Documentation](screenshots/api_documentation.png)
+![API Documentation](screenshots/uvicorn_running_message.png)
 
 ###  Tech Stack
 Language: Python 3.12.7

@@ -31,7 +31,7 @@ Input Validation: Uses Pydantic schemas to ensure incoming JSON data is structur
 ###  Installation & Usage
 Bash
 # Clone the repository
-git clone https://github.com/your-username/predictive-security-api
+https://github.com/Kokoabc/VibeCheck.git
 
 # Build the Docker image
 docker build -t emotion-api .

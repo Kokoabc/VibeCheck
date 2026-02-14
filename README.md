@@ -97,6 +97,6 @@ While the core API is functional, I have planned the following enhancements to s
 
 I am a developer passionate about the intersection of **Machine Learning** and **Cybersecurity**. This project was born out of a desire to understand how to deploy complex ML models into scalable, production-ready environments using Docker and FastAPI.
 
-* https://www.credly.com/badges/4b46121e-5f1f-4d7f-8e76-55f369d38e29/public_url
+* **Certification:** https://www.credly.com/badges/4b46121e-5f1f-4d7f-8e76-55f369d38e29/public_url
 * **LinkedIn:** www.linkedin.com/in/mopelola-opeifa-3751a0344
 * **Interests:** Cloud infrastructure, NLP, Predictive Analytics.

@@ -89,3 +89,13 @@ While the core API is functional, I have planned the following enhancements to s
  CI/CD Pipeline: Setting up GitHub Actions to automatically build and test the Docker image every time code is pushed, ensuring the API never breaks during updates.
 
  Cloud Deployment: Moving the containerized service from local Docker to AWS ECS or Google Cloud Run for global scalability.
+
+
+ ## 👤 About the Author
+
+**[Your Name]** *Aspiring AI & Security Engineer*
+
+I am a developer passionate about the intersection of **Machine Learning** and **Cybersecurity**. This project was born out of a desire to understand how to deploy complex ML models into scalable, production-ready environments using Docker and FastAPI.
+
+* **LinkedIn:** www.linkedin.com/in/mopelola-opeifa-3751a0344
+* **Interests:** Cloud infrastructure, NLP, Predictive Analytics.
